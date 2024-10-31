@@ -11,7 +11,3 @@ while i <= len(my_list):
         else:
             if my_list[i] < i:
                 break
-
-
-
-
